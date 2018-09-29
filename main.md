@@ -21,3 +21,5 @@
     ```
 1. Implement unittest
 1. Use Agile Development Process
+2. Read books 
+3. Waneiei
