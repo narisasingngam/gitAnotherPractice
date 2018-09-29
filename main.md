@@ -4,13 +4,14 @@
     ```python
       # This is not good
       def a():
+        return "AAAAA"
         return "a"
     ```
 1. Always write good document
     ```python
     def add(a, b):
     """
-    Add two numbers together
+    Add two numbers together.
 
     :return: sum of two number
     :raise: TypeError when arguments are not number
@@ -23,3 +24,5 @@
 1. Use Agile Development Process
 2. Read books 
 3. Waneiei
+4. Use Agile Development Process
+5. Use Scrum
