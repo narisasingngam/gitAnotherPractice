@@ -14,7 +14,7 @@
     Add two numbers together.
 
     :return: sum of two number
-    :raise: TypeError when arguments are not number
+    :raise: ypeError when arguments are not number
     """
     if type(a) != int or type(b) != int:
       raise TypeError
