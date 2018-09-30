@@ -21,8 +21,3 @@
     return a + b
     ```
 1. Implement unittest
-1. Use Agile Development Process
-2. Read books 
-3. Waneiei
-4. Use Agile Development Process
-5. Use Scrum
